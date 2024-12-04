@@ -5,7 +5,7 @@
 
 @section('content')
     <h1>
-        Blog Codepolitan
+        Blog Muhamad Ibnu
         <a class="btn btn-success" href="{{ url('posts/create') }}">+ Buat Postingan</a>
     </h1>
 
